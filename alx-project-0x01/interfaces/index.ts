@@ -15,6 +15,7 @@ export interface UserProps {
     phone:    string;
     website:  string;
     company:  Company;
+    street: string;
 }
 
 export interface Address {
